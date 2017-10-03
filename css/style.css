@@ -1,0 +1,39 @@
+.avatar{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+
+}
+body{
+  background-color: lightblue;
+  text-align: center;
+}
+div.my_skills{
+  height: 300px;
+  width: 200px;
+  margin: auto;
+  text-align: left;
+}
+
+
+.gallary-col img{
+  width: 150px;
+  height: 150px;
+
+}
+
+footer{
+  font-size: 30px;
+
+}
+.fa fa-facebook{
+  border: solid;
+}
+
+
+
+@media only screen and (max-width: 768px) (max-height:1024px) {
+  body {
+    font-size: 30px;
+  }
+}
